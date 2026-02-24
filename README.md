@@ -6,7 +6,7 @@ Comecei minha jornada na tecnologia em 2020 e, desde então, venho me desenvolve
 </h4>
 
 <h4 align="justify">
-Atualmente sou estudante de <strong>Ciência da Computação na <a href="https://www.unicuritiba.edu.br/">Unicuritiba</a></strong> e trabalho como <strong>Estagiário Desenvolvedor Front-End na Positivo Tecnologia</strong>, com foco em e-commerces VTEX.
+Atualmente sou estudante de <strong>Ciência da Computação na <a href="https://www.unicuritiba.edu.br/">Unicuritiba</a></strong>, com foco em desenvolvimento web e construção de aplicações modernas, utilizando tecnologias como React, JavaScript e Node.js.
 </h4>
 
 ---
